@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cor de Fundo</string>
+    <string name="amarelo">Amarelo</string>
+    <string name="verde">Verde</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="marrom">Marrom</string>
+    <string name="azul">Azul</string>
+    <string name="trocar">Trocar</string>
+    <string name="escolha">Escolha uma cor</string>
+</resources>
